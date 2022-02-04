@@ -1,3 +1,7 @@
+// Always operate on raw bytes, never on encoded strings.
+// CryptoPals
+// Obakeng Mosadi, 2022
+
 package main
 
 import (
